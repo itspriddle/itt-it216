@@ -1,0 +1,13 @@
+Wicked Cool Perl Scripts
+http://site.ebrary.com/lib/itttechlibrary/Top?channelName=itttechlibrary&cpage=1&docID=10110337&f00=text&frm=smp.x&hitsPerPage=10&layout=document&p00=perl&sch=%A0%A0%A0%A0%A0Search%A0%A0%A0%A0%A0&sortBy=score&sortOrder=desc
+
+
+Custom CGI Scripting with perl
+http://site.ebrary.com/lib/itttechlibrary/Top?channelName=itttechlibrary&cpage=1&docID=10001653&f00=text&frm=smp.x&hitsPerPage=10&layout=document&p00=cgi&sch=sch&sch.x=0&sch.y=0&sortBy=score&sortOrder=desc
+
+Perl Black Book
+http://site.ebrary.com/lib/itttechlibrary/Top?channelName=itttechlibrary&cpage=1&docID=5003089&f00=text&frm=smp.x&hitsPerPage=10&layout=document&p00=perl&sch=sch&sch.x=0&sch.y=0&sortBy=score&sortOrder=desc
+
+Perl: The Complete Reference, Second Edition
+http://site.ebrary.com/lib/itttechlibrary/Top?channelName=itttechlibrary&cpage=1&docID=10002056&f00=text&frm=smp.x&hitsPerPage=10&layout=document&p00=perl&sch=sch&sch.x=0&sch.y=0&sortBy=score&sortOrder=desc
+

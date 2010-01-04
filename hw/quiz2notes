@@ -1,0 +1,12 @@
+use CGI;
+use strict; <-- option explicit
+use warnings;
+
+param( ) --> pull info that was posted from a form
+
+=~	binding operator
+
+
+
+
+

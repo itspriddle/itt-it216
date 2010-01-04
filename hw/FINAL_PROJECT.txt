@@ -1,0 +1,26 @@
+Final Project
+
+Due Nov 8th
+
+Website
+	- content of your choice
+	- main page and two content pages
+		+ must include links, images, text, navigation
+		+ must use cgi.pm functions to create html code
+	- contact form
+		+ must include form validation using regex
+		+ must include mysqldb connection
+	- message board
+		+ must write to a text file to store data
+
+Documentation
+	4-5 pages
+
+	- should describe all the code components used
+		+ db code
+		+ file code
+		+ cgi.pm code
+		+ regex code
+	- entire project will be presented during lab to the class
+
+

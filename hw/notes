@@ -1,0 +1,26 @@
+Wed Sep 13 18:19:05 EDT 2006
+
+$x	scalar
+@x	array
+%x	hasg (associative array)
+
+arrays: qw( some text here )
+	('some', 'text', 'here')
+
+
+
+$_	default scalar
+@_	default array
+
+scalar = single value
+array  = multiple values
+
+
+seek( handle, offset, method )
+
+	methods
+	  0 from beginning
+	  1 # of positions from current cursor location
+	  2 from the end
+
+

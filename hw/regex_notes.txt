@@ -1,0 +1,24 @@
+Regex
+
+12345-6789
+12345-6789B <-- The B is only there sometimes..
+
+/^[0-9]{5}\-[0-9]{4}$/
+/^[0-9]{5}\-[0-9]{4}[B]?$/
+
+^ 	- beginning of string
+$	- end of string
+{#}	- quantifier
+*	- 0 or more occurances
+?	- 0 or 1 occurance
++	- 1 or more occurances
+~=	- pattern match operator
+/ / - pattern delimiters
+/i	- (end of search) - case insensitive
+/g	- (end of search) - search globally
+\d	- any digit
+\D	- any non-digit
+\w	- and word
+\W	- and nonword
+\s	- any whitespace
+\S 	- any nonwhitespace
